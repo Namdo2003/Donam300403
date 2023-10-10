@@ -1,0 +1,20 @@
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\bin\Debug\QUANLYNHANVIENN.exe.config
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\bin\Debug\QUANLYNHANVIENN.exe
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\bin\Debug\QUANLYNHANVIENN.pdb
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.csprojAssemblyReference.cache
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.Form1.resources
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.Properties.Resources.resources
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.csproj.GenerateResource.cache
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.csproj.CoreCompileInputs.cache
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.exe
+C:\Users\letha\source\repos\QUANLYNHANVIENN\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.pdb
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\bin\Debug\QUANLYNHANVIENN.exe.config
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\bin\Debug\QUANLYNHANVIENN.exe
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\bin\Debug\QUANLYNHANVIENN.pdb
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.csproj.AssemblyReference.cache
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.Form1.resources
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.Properties.Resources.resources
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.csproj.GenerateResource.cache
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.csproj.CoreCompileInputs.cache
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.exe
+C:\Users\VAN THANH\Desktop\lập trình C#\c#\QUANLYNHANVIENN (1)\QUANLYNHANVIENN\obj\Debug\QUANLYNHANVIENN.pdb
